@@ -5,7 +5,7 @@ The Computational Model for Joseph Azevedo &amp; Joshua Lagria's submission to t
 - [Blackjack Gamestate Controller](src/ehs/mat/game/BlackjackGame.java)
 - [Blackjack Deck Object](src/ehs/mat/game/BlackjackDeck.java)
 
-# Sources Used
+## Sources Used
 - Optimal Strategy look-up tables retreieved from [WizardOfOdds.com](https://wizardofodds.com/games/blackjack/strategy/4-decks/)
 
 ![Functional Diagram Part 1](http://i.imgur.com/3XmugdG.png)
