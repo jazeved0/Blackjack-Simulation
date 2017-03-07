@@ -3,6 +3,10 @@ package ehs.mat.strategy;
 import ehs.mat.game.BlackjackDeck;
 import ehs.mat.game.BlackjackGame;
 
+/**
+ * The implementation of the optimal basic strategy for blackjack
+ * @author Joseph Azevedo
+ */
 public class OptimalStrategy extends Strategy {
     private static final int SPLIT = 48;
     private static final int HIT = 49;
