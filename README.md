@@ -8,7 +8,7 @@ The Computational Model for Joseph Azevedo &amp; Joshua Lagria's submission to t
 - [Threshold Strategy](src/ehs/mat/strategy/ThresholdStrategy.java)
 
 ## Sources Used
-- Optimal Strategy look-up tables retreieved from [WizardOfOdds.com](https://wizardofodds.com/games/blackjack/strategy/4-decks/)
+- Optimal Strategy look-up tables retrieved from [WizardOfOdds.com](https://wizardofodds.com/games/blackjack/strategy/4-decks/)
 
 ![Functional Diagram Part 1](http://i.imgur.com/3XmugdG.png)
 ![Functional Diagram Part 2](http://i.imgur.com/2rVpVIw.png)
