@@ -1,5 +1,5 @@
 # Blackjack-Simulation
-The Computational Model for Joseph Azevedo &amp; Joshua Lagria's submission to the UTC Math Poster 2017 Competition
+The Computational Model for Joseph Azevedo &amp; Joshua Lagria's submission to the UTC Math Poster 2017 Competition, programmed in the programming language [Java](https://www.java.com/en/)
 
 - [Main Testing Class](src/ehs/mat/TestHarness.java)
 - [Blackjack Gamestate Controller](src/ehs/mat/game/BlackjackGame.java)
