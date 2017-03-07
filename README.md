@@ -4,6 +4,8 @@ The Computational Model for Joseph Azevedo &amp; Joshua Lagria's submission to t
 - [Main Testing Class](src/ehs/mat/TestHarness.java)
 - [Blackjack Gamestate Controller](src/ehs/mat/game/BlackjackGame.java)
 - [Blackjack Deck Object](src/ehs/mat/game/BlackjackDeck.java)
+- [Optimal Strategy](src/ehs/mat/strategy/OptimalStrategy.java)
+- [Threshold Strategy](src/ehs/mat/strategy/ThresholdStrategy.java)
 
 ## Sources Used
 - Optimal Strategy look-up tables retreieved from [WizardOfOdds.com](https://wizardofodds.com/games/blackjack/strategy/4-decks/)
