@@ -12,11 +12,11 @@ public class TestHarness {
     private static final int BEST_THRESHOLD = 17;
 
     public static void main(String[] args) {
-        /*// Test Thresholds:
+        // Test Thresholds:
         for(int i = 2; i < 20; ++i) {
             double[] results = testStrategy(new ThresholdStrategy(i));
             System.out.println("Final deltaBet with threshold=" + i + ": " + results[0] / TEST_COUNT);
-        }*/
+        }
 
         for(int i = 1; i <= 8; ++i) {
             NUM_DECKS = i;
